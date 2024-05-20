@@ -11,6 +11,8 @@ namespace DemoPro
             b = 20;
             res = a + b;
             Console.WriteLine(res);
+            res = a - b;
+            Console.WriteLine(res);
             Console.ReadKey();
         }
     }
